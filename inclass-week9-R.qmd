@@ -1,0 +1,16 @@
+---
+title: "inclass-week9-R"
+format: html
+editor: visual
+---
+
+```{r}
+library(DBI)
+library(tidyverse)
+library(dbplyr)
+requireNamespace("RPostgreSQL")
+```
+
+```{r}
+
+```
